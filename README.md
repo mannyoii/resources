@@ -33,8 +33,7 @@ https://github.com/trekhleb/javascript-algorithms
 
 https://github.com/bradtraversy/design-resources-for-developers
 
-https://www.reddit.com/r/webdev/comments/z5oinl/
-complete_technical_interview_preparation_cheat/
+https://www.reddit.com/r/webdev/comments/z5oinl/complete_technical_interview_preparation_cheat/
 
 https://github.com/yangshun/tech-interview-handbook
 
@@ -44,8 +43,7 @@ https://github.com/goldbergyoni/nodebestpractices
 
 https://github.com/Droogans/unmaintainable-code
 
-https://www.simplethread.com/
-20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
 
 https://github.com/stevemao
 
